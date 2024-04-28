@@ -1,6 +1,6 @@
 // option3.rs
 // Make me compile! Execute `rustlings hint option3` for hints
-
+// test
 
 struct Point {
     x: i32,
